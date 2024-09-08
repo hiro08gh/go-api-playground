@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hiro08gh/go-api-sample/api/handlers"
+	"github.com/hiro08gh/go-api-playground/api/handlers"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )

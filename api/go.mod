@@ -1,4 +1,4 @@
-module github.com/hiro08gh/go-api-sample/api
+module github.com/hiro08gh/go-api-playground/api
 
 go 1.19
 

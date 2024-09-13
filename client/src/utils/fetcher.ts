@@ -1,0 +1,1 @@
+export  const fetcher = <T>(path: string): Promise<T> => fetch(`http://localhost:3001${path}`).then(res => res.json())
